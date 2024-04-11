@@ -1,7 +1,7 @@
 # App Mini Game
 
 ## Beschreibung
-MiniGame1 ist ein aufregendes Spiel, bei dem du verschiedene Herausforderungen meistern musst, um Punkte zu sammeln.
+MiniGame ist ein aufregendes Spiel, bei dem du verschiedene Herausforderungen meistern musst, um Punkte zu sammeln.
 
 
 ## Installation
